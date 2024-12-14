@@ -5,6 +5,7 @@ Ce projet analyse les données des ventes d'une chaîne de supermarchés en Birm
 
 ## Technologies Utilisées
 - **Python** : Utilisation des bibliothèques Pandas, Matplotlib, et Missingno pour le traitement et la visualisation des données.
+- **Power Query** : Transformation et nettoyage avancé des données brutes pour les préparer à l'analyse.
 - **Power BI** : Création de visualisations interactives basées sur les données nettoyées et analysées.
 
 ## Fonctionnalités
